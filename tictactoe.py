@@ -21,7 +21,7 @@ class GameState(Enum):
     MENU = 1
     LOGIN = 2
     PLAYING = 3
-    GAME_OVER = 4
+    GAME_OVER = 4 
 
 class TicTacToe:
     """A Tic Tac Toe game application with user authentication and game persistence.
